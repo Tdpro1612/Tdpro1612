@@ -21,11 +21,13 @@
 
 ### 📱 Featured Projects
 
-* 📖 **[TextStoryReader_v2 / TOC Reader](https://github.com/Tdpro1612/TextStoryReader_v2):** Android e-reader app focused on EPUB/TXT formats with automated Table of Contents generation. *(Kotlin)*
-* ☯️ **[Mô Phỏng Tu Tiên - Game Database](https://github.com/Tdpro1612/mo-phong-tu-tien):** Cultivation game database & web application built with Python backend and web stack. *(Python, HTML/CSS, JS)*
-* 🎮 **[Mô Phỏng Tu Tiên - Unity Game](https://github.com/Tdpro1612/mo_phong_tu_tien):** Cultivation simulator game under development. *(C# / Unity)*
+* 📖 **[TextStoryReader_v2 / TOC Reader](https://github.com/Tdpro1612/TextStoryReader_v2?utm_source=gemini):** Android e-reader app focused on EPUB/TXT formats with automated Table of Contents generation. *(Kotlin)*
+* ☯️ **[Mô Phỏng Tu Tiên - Game Database](https://github.com/Tdpro1612/mo-phong-tu-tien?utm_source=gemini):** Cultivation game database & web application built with Python backend and web stack. *(Python, HTML/CSS, JS)*
+* 🎮 **[Mô Phỏng Tu Tiên - Unity Game](https://github.com/Tdpro1612/mo_phong_tu_tien?utm_source=gemini):** Cultivation simulator game under development. *(C# / Unity)*
+* 🌐 **[Tool Translate CN-VI](https://www.google.com/search?q=https://github.com/Tdpro1612/tool-translate-CN-VI&utm_source=gemini):** Web application tool designed to support translating Chinese to Vietnamese efficiently. *(Web App / Python)*
 * 🤖 **NLP & Chatbot Tools:** Custom Python automation tools and conversational engines. *(Python / Custom NLP)*
 
+---
 ---
 
 ### ☕ Support / Donate
