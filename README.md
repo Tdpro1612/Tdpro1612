@@ -1,7 +1,7 @@
 # Hi, I'm Tdpro1612 👋
 
 > 🤖 **Ex-NLP Engineer** turning intelligent systems into functional applications.
-> Focused on **Python (NLP/AI/Tools)**, **Android Development (Kotlin)**, and **Cultivation Game Dev (C#/Unity)**.
+> Focused on **Python (NLP/AI/Tools)**, **Android Development (Kotlin)**, and **Cultivation Game Dev (Godot)**.
 
 ---
 
@@ -9,7 +9,7 @@
 
 * **AI & NLP:** Python, Chatbot Architectures, Natural Language Processing, Automation Tools
 * **Mobile & Web:** Kotlin (Android), JavaScript, HTML/CSS
-* **Game Development:** C#, Unity
+* **Game Development:** Godot
 * **Tooling:** Makefile, Git
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
